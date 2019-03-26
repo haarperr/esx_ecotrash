@@ -55,7 +55,7 @@ AddEventHandler('esx-ecotrash:retrieveBottle', function()
             xPlayer.addInventoryItem('donut', random)
             TriggerClientEvent('esx:showNotification', src, 'Löysit roskiksesta ' .. random .. ' Donitsi')
         elseif luck == 55 then
-            xPlayer.addInventoryItem('donut', random)
+            xPlayer.addInventoryItem('bread', random)
             TriggerClientEvent('esx:showNotification', src, 'Löysit roskiksesta ' .. random .. ' Leipä')
         elseif luck == 59 then
             xPlayer.addInventoryItem('jager', random)
