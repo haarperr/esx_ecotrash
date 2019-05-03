@@ -1,4 +1,8 @@
 INSERT INTO `items` (name, label) VALUES
-  ('cagoule','Pussi')
-  ('donut','Donitsi')
+  ('bottle','Pullo'),
+  ('muovi','Muovi'),
+  ('ruuti','Ruuti'),
+  ('muovi','Muovi'),
+  ('teippi','Teippi'),
+  ('haisevasukka','Haiseva sukka')
 ;
